@@ -1,0 +1,24 @@
+<!DOCTYPE>
+<html>
+<head>
+  <title>Home</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<nav>
+  <p>Soni Jewellers</p>
+  <ul>
+       <li><a href="index.html">Home</a></li>
+       <li><a href="#">Portfolio</a></li>
+	<ul>
+                      <li><a href="#">Exotic Collection</a></li>
+                      <li><a href="#">Private Collection</a></li>
+	     <li><a href="#">Best Collection</a></li>
+                  </ul>
+       <li><a href="#">About Me</a></li>
+       <li><a href="#">Locations</a></li>
+       <li><a href="#">Contact</a></li>
+       <li><a href="#">Feedback</a></li>
+   </ul>
+</html>
